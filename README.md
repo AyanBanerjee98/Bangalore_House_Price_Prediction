@@ -18,7 +18,7 @@ The model has been deployed using Streamlit, a Python library for building web a
 
 In the web application, the Price Analysis has also been shown. A user can find a suitable house based on popular locations and price.
 
-The application can be accessed at https://chandrima1-bangalore-house-price-prediction-app-3sgoc2.streamlit.app/
+The application can be accessed at https://ayanpro147-bangalore-house-price-prediction-app-to4pld.streamlit.app/
 
 
 
@@ -34,5 +34,5 @@ The application can be accessed at https://chandrima1-bangalore-house-price-pred
 
 * The code for this project was inspired by the Real Estate Price Prediction Project by codebasics.
 
-* I would like to acknowledge my friend @ayanpro147 for his contribution to this project.
+* I would like to acknowledge my friend @Chandrima1 for his contribution to this project.
 Feel free to contribute to the project by opening pull requests or creating issues if you encounter any problems
