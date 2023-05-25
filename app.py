@@ -117,5 +117,5 @@ if user_menu == 'Price Prediction':
 
 
         price = int(predict_price(loc,area,bath,room,balcony))
-        st.text("The predicated price is: " +str(price)+" lakh rupees")
+        st.text("The predicted price is: " +str(price)+" lakh rupees")
         st.image('https://media1.giphy.com/media/e8ik35i8LaO3BqRwY6/giphy.gif?cid=ecf05e47z8i1iphq5vsrf0dudzhob3ofl5grtxtawj2byoxl&ep=v1_gifs_search&rid=giphy.gif&ct=g')
